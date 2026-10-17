@@ -1,37 +1,41 @@
 # Hi there 👋
 
-```text
-                    irfan@github ─────────────────────────────────
-:::
-...           .+#@@@%#%%#**.        .....   Location:         Kerala, India
-.           -%@@@@@@@@@@@@@@@+         .   Role:             Python / Django Developer
-          -*@@@@@@@@@@@@@@@%%@@@@*         Focus:            Backend Development
-         #@@@@@@@@@@@@@@@@@@@@@@@@@         Frameworks:       Django, DRF, React
-        -@@@@@%%@@%@%@@@@@@@@@@@@@         IDE:              VS Code, PyCharm
-        *@#@@@@@@@@@@@@@@@@@@@@@@@@%
-        *@@@@%#+-   :++-*###*@@@@@@         Languages.Programming: Python, JavaScript
-         @@@%.             ..=%@@@%         Languages.Web:         HTML, CSS, JSON
-         @@@-              .---@@            Languages.Real:        English, Malayalam
-          @# -#**#@#:   :%@%%%@-%%
-          *#  ::-%:::. =#- %=+*-*#+          Hobbies.Software: Programming Projects
-           *           :+  ::: .*-.
-           :            +.     =++            Interests: REST APIs, Backend Development
-           .-       .  .==   .-*=.
-            +-     :+==#@+:. .**              Contact ────────────────────────────────
-             *-  +*-..::-#%#++@
-              #-   :.  .-+=-+@                Email:    irfanmuthu56@gmail.com
-              :++.   --..:=*%                 GitHub:   IRFAN-DEVo
-              . -*+-.:-==+#%##*               Instagram: _.irfan.__._
-             @    :+*%%@@%#+==@*
-           +@%*       :::...+@@%-
-      .=#@@%#*%%       .. .-%%%@@@@#=
-   :*%@@@%#%*##+#@:   .:. :.%*%##%%@@@@%*:.
+<p align="center">
+  <img
+    src="assets/irfan_green_terminal.gif"
+    alt="Green hacker terminal animation"
+    width="100%"
+  />
+</p>
 
- *@@@#######***%@@@+        :##%####%####%@@%
- \###%#*######@@@@%%@@+    =@%@@@%%#%%#%#####
- \####%###############%*  #@%%%%%#%%#%%###%%#
+## 👨‍💻 About Me
 
-             GitHub Stats ────────────────────────────────────────
-             Repositories: github.com/IRFAN-DEVo
-             Focus: Python, Django REST Framework, React
-```
+- 💻 Python / Django Backend Developer
+- 🚀 Building REST APIs with Django REST Framework
+- ⚛️ Learning and building applications with React
+- 🗄️ Working with PostgreSQL and SQLite
+- 📍 Kerala, India
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Backend:** Django, Django REST Framework
+- **Frontend:** React.js
+- **Database:** PostgreSQL, SQLite
+- **Tools:** Git, GitHub, Docker, Postman
+
+## 🚀 Projects
+
+- **DjangoMart** — E-commerce application built with Django REST Framework and React.
+- **LicenseGuard** — Offline-first software licensing and device activation system.
+- **AI Study Assistant** — Document analysis and question-answering application.
+- **Location Sharing App** — Location-sharing application built with React.
+
+## 📫 Contact
+
+- **Email:** irfanmuthu56@gmail.com
+- **GitHub:** [IRFAN-DEVo](https://github.com/IRFAN-DEVo)
+
+---
+
+*Thanks for visiting my profile!*
