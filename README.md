@@ -39,3 +39,8 @@
 ---
 
 *Thanks for visiting my profile!*
+
+
+<p align="center">
+  <img src="assets/grid_animation.svg" alt="Contribution snake animation" width="100%" />
+</p>
