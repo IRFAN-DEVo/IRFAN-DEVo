@@ -13,7 +13,7 @@
 - 💻 Python / Django Backend Developer
 - 🚀 Building REST APIs with Django REST Framework
 - ⚛️ Learning and building applications with React
-- 🗄️ Working with PostgreSQL and SQLite
+- 🗄️ Working with PostgreSQL
 - 📍 Kerala, India
 
 ## 🛠️ Tech Stack
@@ -21,7 +21,7 @@
 - **Languages:** Python, JavaScript, HTML, CSS
 - **Backend:** Django, Django REST Framework
 - **Frontend:** React.js
-- **Database:** PostgreSQL, SQLite
+- **Database:** PostgreSQL, Django ORM
 - **Tools:** Git, GitHub, Docker, Postman
 
 ## 🚀 Projects
