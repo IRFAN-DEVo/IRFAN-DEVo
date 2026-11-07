@@ -34,7 +34,7 @@
 
 ## 📫 Contact
 
-- **Portfolio:** [Visit My Portfolio]((https://portfolio-sage-three-40.vercel.app/))
+- **Portfolio:** [Visit My Portfolio](https://portfolio-sage-three-40.vercel.app/)
 - **Email:** irfanmuthu56@gmail.com
 - **GitHub:** [IRFAN-DEVo](https://github.com/IRFAN-DEVo)
 
